@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">MyVermeer</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_art">Gallery</string>
+    <string name="nav_bank">Bank</string>
+    <string name="nav_travel">Travel</string>
+    <string name="nav_casino">Casino</string>
+
+    <!-- fragment_bank.xml -->
+    <string name="bank">Bank</string>
+    <string name="alter_kurs">Alter Kurs:\nLloyd: 0€\nStar: 0€\nRoyal: 0€\nHanse: 0€</string>
+    <string name="aktueller_kurs">Aktueller Kurs:\nLloyd: 1000€\nStar: 900€\nRoyal: 800€\nHanse: 700€</string>
+    <string name="konto">Konto</string>
+    <string name="stock">Aktien</string>
+
+    <!-- fragment_konto.xml -->
+    <string name="wealth">Vermögen: </string>
+    <string name="credit">Guthaben: </string>
+    <string name="paytax">Zinsen: </string>
+    <string name="pay_in">Einzahlen</string>
+    <string name="pay_out">Auszahlen</string>
+
+    <!-- fragment_payin_payout_dialog.xml -->
+    <string name="dialog_hint_payin">...</string>
+    <string name="text_dialog_confirm">Bestätigen</string>
+    <string name="text_dialog_cancel">Abbrechen</string>
+    <string name="payin_payout">Ein-/Auszahlen</string>
+
+    <!-- fragment_payin_payout_dialog.xml -->
+    <string name="button_departure">Reise Buchen</string>
+    <string name="button_stay">Aufenthalt</string>
+
+    <!-- Log Messages -->
+    <string name="create_instance">getInstance: instance created</string>
+    <string name="instance_exists">getInstance: instance allready exists</string>
+
+    <!-- Toasts -->
+    <string name="toast_empty_edittext">Textfeld ist leer!</string>
+    <string name="toast_no_money">Du bist pleite!</string>
+    <string name="toast_no_stock">Du hast keine dieser Aktien</string>
+
+    <!-- StayDialogFragment -->
+    <string name="dialog_stay_info">Aufenthalt</string>
+
+    <!-- TravelFragment -->
+    <string name="location">Aktueller Aufenthaltsort:</string>
+    <string name="destination">Bitte Reiseziel wählen:</string>
+
+    <!-- DiceFragment -->
+    <string name="dice_how_much_do_you_bet">Gespielt wird Craps. Was willst du setzen?</string>
+    <string name="dice_welcome_text">Willkommen in der Würfelbude</string>
+    <string name="dice_throw">Throw the dice!</string>
+    <string name="aktienfragment_buy_sell_lloyd">Lloyd</string>
+    <string name="aktienfragment_buy_sell_star">Star</string>
+    <string name="aktienfragment_buy_sell_hanse">Hanse</string>
+    <string name="aktienfragment_buy_sell_royal">Royal</string>
+    <string name="dice_point_is_set">Point ist gesetzt!</string>
+    <string name="dice_bet_size">Der Einsatz beträgt: </string>
+    <string name="home_button_overview">Übersicht</string>
+    <string name="home_button_plantage">Plantage</string>
+    <string name="home_button_market">Markt</string>
+    <string name="home_button_casino">Casino</string>
+    <string name="home_button_gallery">Gallerie</string>
+    <string name="home_button_Auktion">Auktion</string>
+    <string name="plant_text_renature">Verkaufen</string>
+
+
+</resources>
